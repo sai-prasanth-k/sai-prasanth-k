@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sai-prasanth-k
-- 👀 I’m interested in Android application development ,Web development
+- 👀 I’m interested in Android application development ,FullStack development
 - 🌱 I’m currently learning Kotlin
 -.
 
