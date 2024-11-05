@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-prasanth-k" alt="sai-prasanth-k" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently working **MERN Stack**
 
 - 💬 Ask me about **Front end development, website design, Website development**
 
