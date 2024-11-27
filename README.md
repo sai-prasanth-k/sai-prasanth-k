@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Front end development, website design, Website development**
 
-- 📫 How to reach me **saiprasanthk.contact@gmail.com**
+- 📫 How to reach me **saiprasanth5293@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
